@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Страница-1" id="K0gimxRAGj3e4RXqRwrz">
-    <mxGraphModel dx="1101" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="1743" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,28 +8,46 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wGaGqzOkYlCVnxiRWhGA-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;labelBackgroundColor=none;" value="void Printtable(const std::vector&lt;div&gt;&amp;lt;double&amp;gt;&amp;amp; x&lt;/div&gt;&lt;div&gt;const std::vector&amp;lt;double&amp;gt;&amp;amp; y)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="107" width="231.68" x="420" y="60" as="geometry" />
+          <mxGeometry height="107" width="231.68" x="1370" y="190" as="geometry" />
         </mxCell>
         <mxCell id="wGaGqzOkYlCVnxiRWhGA-5" edge="1" parent="1" source="wGaGqzOkYlCVnxiRWhGA-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="wGaGqzOkYlCVnxiRWhGA-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wGaGqzOkYlCVnxiRWhGA-3" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp;std::cout &amp;lt;&amp;lt; &quot;\n/------------------------------&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;-------\\\n&quot;;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; std::cout &amp;lt;&amp;lt; &quot;| Аргумент функции |&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp;Значение функции |\n&quot;;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; std::cout &amp;lt;&amp;lt; &quot;|------------------|-------------&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;-----|\n&quot;;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="100" width="220" x="425.84000000000003" y="250" as="geometry" />
+          <mxGeometry height="100" width="220" x="1375.8400000000001" y="380" as="geometry" />
         </mxCell>
         <mxCell id="wGaGqzOkYlCVnxiRWhGA-7" edge="1" parent="1" source="wGaGqzOkYlCVnxiRWhGA-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="wGaGqzOkYlCVnxiRWhGA-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wGaGqzOkYlCVnxiRWhGA-4" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontColor=light-dark(#FFFFFF,#FFFFFF);" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-variant-ligatures: none; white-space-collapse: preserve;&quot;&gt;&lt;font face=&quot;Google Sans Flex, Google Sans, system-ui, sans-serif&quot; style=&quot;font-size: 14px;&quot;&gt;for (size_t i = 0; i &amp;lt; x.size(); ++i)&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="90" width="210" x="430.84000000000003" y="450" as="geometry" />
+          <mxGeometry height="90" width="210" x="1380.8400000000001" y="580" as="geometry" />
         </mxCell>
         <mxCell id="wGaGqzOkYlCVnxiRWhGA-9" edge="1" parent="1" source="wGaGqzOkYlCVnxiRWhGA-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="wGaGqzOkYlCVnxiRWhGA-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wGaGqzOkYlCVnxiRWhGA-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;char x_str[50];&lt;/div&gt;&lt;div&gt;std::snprintf(x_str, sizeof&lt;/div&gt;&lt;div&gt;(x_str), &quot;%.4f&quot;, x[i]);&lt;/div&gt;&lt;div&gt;std::string xs(x_str);&lt;/div&gt;" vertex="1">
-          <mxGeometry height="108" width="207.66" x="432.01000000000005" y="630" as="geometry" />
+          <mxGeometry height="108" width="207.66" x="1382.01" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="wGaGqzOkYlCVnxiRWhGA-15" edge="1" parent="1" source="wGaGqzOkYlCVnxiRWhGA-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="wGaGqzOkYlCVnxiRWhGA-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wGaGqzOkYlCVnxiRWhGA-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;int x_padding = std::max(0, static_cast&amp;lt;int&amp;gt;((18 - xs.length&lt;/div&gt;&lt;div&gt;()) / 2));&lt;/div&gt;&lt;div&gt;std::string x_centered =std::string(x_padding&lt;/div&gt;&lt;div&gt;, &#39; &#39;) + xs + std::string(18&lt;/div&gt;&lt;div&gt;&amp;nbsp;- xs.length() - x_padding, &#39; &#39;);&lt;/div&gt;&lt;div&gt;&lt;div&gt;std::string y_centered;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="128" width="207.66" x="432.01" y="830" as="geometry" />
+          <mxGeometry height="128" width="207.66" x="1382.01" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="wGaGqzOkYlCVnxiRWhGA-10" edge="1" parent="1" source="wGaGqzOkYlCVnxiRWhGA-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="wGaGqzOkYlCVnxiRWhGA-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wGaGqzOkYlCVnxiRWhGA-11" edge="1" parent="1" source="wGaGqzOkYlCVnxiRWhGA-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="wGaGqzOkYlCVnxiRWhGA-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wGaGqzOkYlCVnxiRWhGA-12" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="div_by_zero" vertex="1">
+          <mxGeometry height="140" width="230" x="1371.68" y="1180" as="geometry" />
+        </mxCell>
+        <mxCell id="wGaGqzOkYlCVnxiRWhGA-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;y_vals.push_back(std::numeric_limits&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&amp;lt;double&amp;gt;::quiet_NaN());&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="95" width="214" x="1656.84" y="1330" as="geometry" />
+        </mxCell>
+        <mxCell id="wGaGqzOkYlCVnxiRWhGA-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;y_vals.push_back(current_y);&lt;/span&gt;" vertex="1">
+          <mxGeometry height="95" width="214" x="1100.84" y="1330" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
