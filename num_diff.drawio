@@ -1,0 +1,65 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="clyMw8OpS8YvgIfDmis2">
+    <mxGraphModel dx="1902" dy="1235" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bhVs_wk72KsnLbAuWhyh-3" edge="1" parent="1" source="bhVs_wk72KsnLbAuWhyh-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="bhVs_wk72KsnLbAuWhyh-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="615.8400000000001" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhVs_wk72KsnLbAuWhyh-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;labelBackgroundColor=none;" value="&lt;span class=&quot;hljs-keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;hljs-title&quot;&gt;dy&lt;/span&gt; = &lt;span class=&quot;hljs-title&quot;&gt;num_diff&lt;/span&gt;&lt;span class=&quot;hljs-params&quot;&gt;(x, y)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="107" width="231.68" x="500" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="bhVs_wk72KsnLbAuWhyh-6" edge="1" parent="1" source="bhVs_wk72KsnLbAuWhyh-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="bhVs_wk72KsnLbAuWhyh-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bhVs_wk72KsnLbAuWhyh-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&amp;nbsp;n = &lt;span class=&quot;hljs-built_in&quot;&gt;length&lt;/span&gt;(x);&lt;div&gt;&amp;nbsp;dy = &lt;span class=&quot;hljs-built_in&quot;&gt;zeros&lt;/span&gt;(&lt;span class=&quot;hljs-built_in&quot;&gt;size&lt;/span&gt;(x));&lt;/div&gt;" vertex="1">
+          <mxGeometry height="108" width="207.66" x="512.01" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="bhVs_wk72KsnLbAuWhyh-8" edge="1" parent="1" source="bhVs_wk72KsnLbAuWhyh-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="bhVs_wk72KsnLbAuWhyh-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bhVs_wk72KsnLbAuWhyh-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="dy(&lt;span class=&quot;hljs-number&quot;&gt;1&lt;/span&gt;) = (y(&lt;span class=&quot;hljs-number&quot;&gt;2&lt;/span&gt;) - y(&lt;span class=&quot;hljs-number&quot;&gt;1&lt;/span&gt;)) / (x(&lt;span class=&quot;hljs-number&quot;&gt;2&lt;/span&gt;) - x(&lt;span class=&quot;hljs-number&quot;&gt;1&lt;/span&gt;))" vertex="1">
+          <mxGeometry height="108" width="207.66" x="512.01" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="bhVs_wk72KsnLbAuWhyh-10" edge="1" parent="1" source="bhVs_wk72KsnLbAuWhyh-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="bhVs_wk72KsnLbAuWhyh-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bhVs_wk72KsnLbAuWhyh-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="dy(n) = (y(n) - y(n&lt;span class=&quot;hljs-number&quot;&gt;-1&lt;/span&gt;)) / (x(n) - x(n&lt;span class=&quot;hljs-number&quot;&gt;-1&lt;/span&gt;));" vertex="1">
+          <mxGeometry height="108" width="207.66" x="512.01" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="bhVs_wk72KsnLbAuWhyh-12" edge="1" parent="1" source="bhVs_wk72KsnLbAuWhyh-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="bhVs_wk72KsnLbAuWhyh-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bhVs_wk72KsnLbAuWhyh-15" edge="1" parent="1" source="bhVs_wk72KsnLbAuWhyh-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="bhVs_wk72KsnLbAuWhyh-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="840" y="1065" />
+              <mxPoint x="840" y="1360" />
+              <mxPoint x="616" y="1360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhVs_wk72KsnLbAuWhyh-9" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontColor=light-dark(#FFFFFF,#FFFFFF);" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span class=&quot;hljs-keyword&quot; style=&quot;&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;hljs-built_in&quot; style=&quot;&quot;&gt;i&lt;/span&gt; = &lt;span class=&quot;hljs-number&quot; style=&quot;&quot;&gt;2&lt;/span&gt;:(n&lt;span class=&quot;hljs-number&quot; style=&quot;&quot;&gt;-1&lt;/span&gt;)&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="210" x="510.84" y="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="bhVs_wk72KsnLbAuWhyh-13" edge="1" parent="1" source="bhVs_wk72KsnLbAuWhyh-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="bhVs_wk72KsnLbAuWhyh-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="1254" />
+              <mxPoint x="390" y="1065" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhVs_wk72KsnLbAuWhyh-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="dy(&lt;span class=&quot;hljs-built_in&quot;&gt;i&lt;/span&gt;) = (y(&lt;span class=&quot;hljs-built_in&quot;&gt;i&lt;/span&gt;+&lt;span class=&quot;hljs-number&quot;&gt;1&lt;/span&gt;) - y(&lt;span class=&quot;hljs-built_in&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;hljs-number&quot;&gt;-1&lt;/span&gt;))&lt;div&gt;&amp;nbsp;/ (x(&lt;span class=&quot;hljs-built_in&quot;&gt;i&lt;/span&gt;+&lt;span class=&quot;hljs-number&quot;&gt;1&lt;/span&gt;) - x(&lt;span class=&quot;hljs-built_in&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;hljs-number&quot;&gt;-1&lt;/span&gt;));&lt;/div&gt;" vertex="1">
+          <mxGeometry height="108" width="207.66" x="512.01" y="1200" as="geometry" />
+        </mxCell>
+        <mxCell id="bhVs_wk72KsnLbAuWhyh-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;labelBackgroundColor=none;" value="return dy" vertex="1">
+          <mxGeometry height="107" width="231.68" x="500" y="1460" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
