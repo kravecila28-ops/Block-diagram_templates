@@ -1,1 +1,1 @@
-# Block-diagrams for studies
+# Block-diagrams for study
