@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Страница-1" id="y8jxSDXKHXUYSFKpGcAP">
-    <mxGraphModel dx="1201" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1339" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -51,7 +51,7 @@
         <mxCell id="uW94EUdCvY0pBmP3GhJB-45" edge="1" parent="1" source="uW94EUdCvY0pBmP3GhJB-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="uW94EUdCvY0pBmP3GhJB-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uW94EUdCvY0pBmP3GhJB-41" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=40;" value="std::cout &amp;lt;&amp;lt;&lt;div&gt;&amp;nbsp;*(array + i) &amp;lt;&amp;lt; &#39;,&#39;;&lt;/div&gt;" vertex="1">
+        <mxCell id="uW94EUdCvY0pBmP3GhJB-41" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=40;" value="std::cout &amp;lt;&amp;lt; array&lt;div&gt;[array_size - 1] &amp;lt;&amp;lt; &quot; ]\n&quot;;&lt;/div&gt;" vertex="1">
           <mxGeometry height="90" width="200" x="314.00000000000006" y="780" as="geometry" />
         </mxCell>
         <mxCell id="uW94EUdCvY0pBmP3GhJB-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;labelBackgroundColor=none;" value="return 0;" vertex="1">
