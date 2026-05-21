@@ -7,7 +7,7 @@
         <mxCell id="HXGHoc5CTohBQCw3UvNa-3" edge="1" parent="1" source="HXGHoc5CTohBQCw3UvNa-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="HXGHoc5CTohBQCw3UvNa-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HXGHoc5CTohBQCw3UvNa-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;labelBackgroundColor=none;" value="double max_avalue_calculation(const double* array, unsigned int array_size)" vertex="1">
+        <mxCell id="HXGHoc5CTohBQCw3UvNa-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;labelBackgroundColor=none;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;double max_avalue_calculation(const double* array, unsigned int array_size)&lt;/font&gt;" vertex="1">
           <mxGeometry height="97" width="221.84" x="303" y="40" as="geometry" />
         </mxCell>
         <mxCell id="HXGHoc5CTohBQCw3UvNa-5" edge="1" parent="1" source="HXGHoc5CTohBQCw3UvNa-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="HXGHoc5CTohBQCw3UvNa-4">
