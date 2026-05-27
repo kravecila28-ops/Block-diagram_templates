@@ -1,25 +1,25 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Страница-1" id="QRAiQwkL_3A9nEPSw1bx">
-    <mxGraphModel dx="1848" dy="1175" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1628" dy="1019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="sFqNOVFs0_4uxxSc6a3V-3" edge="1" parent="1" source="sFqNOVFs0_4uxxSc6a3V-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="sFqNOVFs0_4uxxSc6a3V-2">
+        <mxCell id="sFqNOVFs0_4uxxSc6a3V-3" edge="1" parent="1" source="sFqNOVFs0_4uxxSc6a3V-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="sFqNOVFs0_4uxxSc6a3V-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sFqNOVFs0_4uxxSc6a3V-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;labelBackgroundColor=none;" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;double calc_lower_diagonal_abs_sum(const double array_copy[rows][cols])&lt;/span&gt;" vertex="1">
           <mxGeometry height="107" width="231.68" x="298" y="70" as="geometry" />
         </mxCell>
-        <mxCell id="KzEA-G16_K635Il1_Qki-2" edge="1" parent="1" source="sFqNOVFs0_4uxxSc6a3V-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="KzEA-G16_K635Il1_Qki-1">
+        <mxCell id="KzEA-G16_K635Il1_Qki-2" edge="1" parent="1" source="sFqNOVFs0_4uxxSc6a3V-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="KzEA-G16_K635Il1_Qki-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sFqNOVFs0_4uxxSc6a3V-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;double sum = 0;&lt;/font&gt;" vertex="1">
+        <mxCell id="sFqNOVFs0_4uxxSc6a3V-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;double sum = 0;&lt;/font&gt;" vertex="1">
           <mxGeometry height="95" width="214" x="307.00000000000006" y="230" as="geometry" />
         </mxCell>
-        <mxCell id="KzEA-G16_K635Il1_Qki-4" edge="1" parent="1" source="KzEA-G16_K635Il1_Qki-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="KzEA-G16_K635Il1_Qki-3">
+        <mxCell id="KzEA-G16_K635Il1_Qki-4" edge="1" parent="1" source="KzEA-G16_K635Il1_Qki-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="KzEA-G16_K635Il1_Qki-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KzEA-G16_K635Il1_Qki-10" edge="1" parent="1" source="KzEA-G16_K635Il1_Qki-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="KzEA-G16_K635Il1_Qki-9">
+        <mxCell id="KzEA-G16_K635Il1_Qki-10" edge="1" parent="1" source="KzEA-G16_K635Il1_Qki-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="KzEA-G16_K635Il1_Qki-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="610" y="435" />
@@ -28,13 +28,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KzEA-G16_K635Il1_Qki-1" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontColor=light-dark(#FFFFFF,#FFFFFF);align=center;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-size: 15px; font-variant-ligatures: none; white-space-collapse: preserve;&quot;&gt;&lt;font face=&quot;Google Sans Flex, Google Sans, system-ui, sans-serif&quot;&gt;for (short int i = 1; i &amp;lt; rows; ++i)&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="KzEA-G16_K635Il1_Qki-1" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;align=center;labelBackgroundColor=none;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-size: 15px; font-variant-ligatures: none; white-space-collapse: preserve;&quot;&gt;&lt;font face=&quot;Google Sans Flex, Google Sans, system-ui, sans-serif&quot;&gt;for (short int i = 1; i &amp;lt; rows; ++i)&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="90" width="210" x="309" y="390" as="geometry" />
         </mxCell>
-        <mxCell id="KzEA-G16_K635Il1_Qki-6" edge="1" parent="1" source="KzEA-G16_K635Il1_Qki-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="KzEA-G16_K635Il1_Qki-5">
+        <mxCell id="KzEA-G16_K635Il1_Qki-6" edge="1" parent="1" source="KzEA-G16_K635Il1_Qki-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="KzEA-G16_K635Il1_Qki-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KzEA-G16_K635Il1_Qki-8" edge="1" parent="1" source="KzEA-G16_K635Il1_Qki-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="KzEA-G16_K635Il1_Qki-1">
+        <mxCell id="KzEA-G16_K635Il1_Qki-8" edge="1" parent="1" source="KzEA-G16_K635Il1_Qki-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="KzEA-G16_K635Il1_Qki-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="560" y="595" />
@@ -44,10 +44,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KzEA-G16_K635Il1_Qki-3" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontColor=light-dark(#FFFFFF,#FFFFFF);align=center;" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Google Sans Flex, Google Sans, system-ui, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 15px; font-variant-ligatures: none; white-space-collapse: preserve;&quot;&gt;for (short int j = 0; j &amp;lt; i; ++j)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="KzEA-G16_K635Il1_Qki-3" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;align=center;labelBackgroundColor=none;" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Google Sans Flex, Google Sans, system-ui, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 15px; font-variant-ligatures: none; white-space-collapse: preserve;&quot;&gt;for (short int j = 0; j &amp;lt; i; ++j)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="90" width="210" x="309" y="550" as="geometry" />
         </mxCell>
-        <mxCell id="KzEA-G16_K635Il1_Qki-7" edge="1" parent="1" source="KzEA-G16_K635Il1_Qki-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="KzEA-G16_K635Il1_Qki-3">
+        <mxCell id="KzEA-G16_K635Il1_Qki-7" edge="1" parent="1" source="KzEA-G16_K635Il1_Qki-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="KzEA-G16_K635Il1_Qki-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="240" y="757" />
@@ -55,7 +55,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KzEA-G16_K635Il1_Qki-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&amp;nbsp;sum += std::abs(array_copy[i][j]);&lt;/span&gt;" vertex="1">
+        <mxCell id="KzEA-G16_K635Il1_Qki-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&amp;nbsp;sum += std::abs(array_copy[i][j]);&lt;/span&gt;" vertex="1">
           <mxGeometry height="95" width="214" x="307" y="710" as="geometry" />
         </mxCell>
         <mxCell id="KzEA-G16_K635Il1_Qki-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;labelBackgroundColor=none;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;return sum;&lt;/font&gt;" vertex="1">
