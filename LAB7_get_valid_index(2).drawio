@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Страница-1" id="kNlNsPY2xiTuVmdHqvsr">
-    <mxGraphModel dx="1568" dy="964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1080" math="0" shadow="0">
+    <mxGraphModel dx="855" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1080" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -129,8 +129,35 @@
         <mxCell id="bNQ6R3GsrMO_EHmet1EJ-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;converted_value = converted_value * 10 + (input_buffer[i] - &#39;0&#39;);&lt;/font&gt;" vertex="1">
           <mxGeometry height="97" width="190" x="916.84" y="1630" as="geometry" />
         </mxCell>
+        <mxCell id="bNQ6R3GsrMO_EHmet1EJ-53" edge="1" parent="1" source="bNQ6R3GsrMO_EHmet1EJ-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="bNQ6R3GsrMO_EHmet1EJ-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="790" y="1910" />
+              <mxPoint x="790" y="2090" />
+              <mxPoint x="1012" y="2090" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="bNQ6R3GsrMO_EHmet1EJ-43" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="if (is_pure_digit &amp;amp;&amp;amp;&amp;nbsp;&lt;div&gt;converted_value&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;gt;= 1 &amp;amp;&amp;amp; converted_value&lt;/span&gt;&lt;div&gt;&amp;nbsp;&amp;lt;= total_words)&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="140" width="230" x="895.9" y="1840" as="geometry" />
+        </mxCell>
+        <mxCell id="bNQ6R3GsrMO_EHmet1EJ-46" edge="1" parent="1" source="bNQ6R3GsrMO_EHmet1EJ-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="bNQ6R3GsrMO_EHmet1EJ-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1127" y="1909" as="sourcePoint" />
+            <mxPoint x="1235" y="1948" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bNQ6R3GsrMO_EHmet1EJ-48" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Истина&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="1126.7400000000002" y="1865" as="geometry" />
+        </mxCell>
+        <mxCell id="bNQ6R3GsrMO_EHmet1EJ-49" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Ложь&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="836.7399999999998" y="1865" as="geometry" />
+        </mxCell>
+        <mxCell id="bNQ6R3GsrMO_EHmet1EJ-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;converted_value = converted_value * 10 + (input_buffer[i] - &#39;0&#39;);&lt;/font&gt;" vertex="1">
+          <mxGeometry height="97" width="190" x="916.8400000000001" y="2148" as="geometry" />
+        </mxCell>
+        <mxCell id="bNQ6R3GsrMO_EHmet1EJ-54" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;labelBackgroundColor=none;" value="return converted_value;" vertex="1">
+          <mxGeometry height="97" width="221.84" x="1150" y="1980" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
