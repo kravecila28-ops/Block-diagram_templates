@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Страница-1" id="FTmiVMPBPR24YbREJZlb">
-    <mxGraphModel dx="977" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1080" math="0" shadow="0">
+    <mxGraphModel dx="904" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1080" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -82,8 +82,14 @@
         <mxCell id="b8ugvC2kyoCR40OqODc0-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;in_word = false;&lt;/font&gt;" vertex="1">
           <mxGeometry height="97" width="190" x="590" y="740" as="geometry" />
         </mxCell>
+        <mxCell id="b8ugvC2kyoCR40OqODc0-36" edge="1" parent="1" source="b8ugvC2kyoCR40OqODc0-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="b8ugvC2kyoCR40OqODc0-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="b8ugvC2kyoCR40OqODc0-22" parent="1" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;true&lt;/font&gt;" vertex="1">
           <mxGeometry height="140" width="230" x="815.92" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="b8ugvC2kyoCR40OqODc0-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="&lt;div&gt;&lt;font&gt;char input_buffer[64];&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;std::cout &amp;lt;&amp;lt; &quot;\n—&amp;gt; Пожалуйста, введите номер слова (1-&quot; &amp;lt;&amp;lt; total_words &amp;lt;&amp;lt; &quot;): &quot;;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;std::cin.getline(input_buffer, 64);&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="97" width="190" x="835.92" y="1280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
