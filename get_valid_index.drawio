@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Страница-1" id="FTmiVMPBPR24YbREJZlb">
-    <mxGraphModel dx="904" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1080" math="0" shadow="0">
+    <mxGraphModel dx="1526" dy="955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1080" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -45,8 +45,8 @@
         <mxCell id="b8ugvC2kyoCR40OqODc0-30" edge="1" parent="1" source="b8ugvC2kyoCR40OqODc0-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="b8ugvC2kyoCR40OqODc0-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="960" y="788" />
-              <mxPoint x="960" y="980" />
+              <mxPoint x="1000" y="789" />
+              <mxPoint x="1000" y="980" />
               <mxPoint x="931" y="980" />
             </Array>
           </mxGeometry>
@@ -57,13 +57,13 @@
         <mxCell id="b8ugvC2kyoCR40OqODc0-32" edge="1" parent="1" source="b8ugvC2kyoCR40OqODc0-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="b8ugvC2kyoCR40OqODc0-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1455" y="980" />
+              <mxPoint x="1405" y="980" />
               <mxPoint x="931" y="980" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="b8ugvC2kyoCR40OqODc0-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;in_word = true;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;total_words++;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="97" width="190" x="1360" y="830" as="geometry" />
+          <mxGeometry height="97" width="190" x="1310" y="830" as="geometry" />
         </mxCell>
         <mxCell id="b8ugvC2kyoCR40OqODc0-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Истина&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="1280" y="721.5" as="geometry" />
