@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Страница-1" id="qBV2ind1Sw8fub6SEoV0">
-    <mxGraphModel dx="2016" dy="1240" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1080" math="0" shadow="0">
+    <mxGraphModel dx="1881" dy="1157" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1080" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -140,7 +140,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="O7xg__kZRPUef5S--rNn-45" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;labelBackgroundColor=none;" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;filter_sentences(&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;[&amp;amp;fin](char&amp;amp; ch) { return static_cast&amp;lt;bool&amp;gt;(fin.get(ch)); },&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;[&amp;amp;fout](const std::string&amp;amp; s) { fout.write(s.data(), s.size()); },&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;target);&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="O7xg__kZRPUef5S--rNn-45" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;labelBackgroundColor=none;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;write_str(sentence);&lt;/span&gt;" vertex="1">
           <mxGeometry height="97" width="191.02" x="1184.08" y="960" as="geometry" />
         </mxCell>
       </root>
