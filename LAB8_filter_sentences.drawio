@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Страница-1" id="qBV2ind1Sw8fub6SEoV0">
-    <mxGraphModel dx="1176" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1080" math="0" shadow="0">
+    <mxGraphModel dx="806" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1080" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,8 +10,29 @@
         <mxCell id="O7xg__kZRPUef5S--rNn-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;labelBackgroundColor=none;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;void filter_sentences(ReadFunc read_char, WriteFunc write_str, int target_words)&lt;/font&gt;" vertex="1">
           <mxGeometry height="97" width="221.84" x="720" y="90" as="geometry" />
         </mxCell>
+        <mxCell id="O7xg__kZRPUef5S--rNn-9" edge="1" parent="1" source="O7xg__kZRPUef5S--rNn-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="O7xg__kZRPUef5S--rNn-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="O7xg__kZRPUef5S--rNn-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;std::string sentence;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;char ch;&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="97" width="190" x="735.92" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="O7xg__kZRPUef5S--rNn-4" edge="1" parent="1" source="O7xg__kZRPUef5S--rNn-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="O7xg__kZRPUef5S--rNn-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O7xg__kZRPUef5S--rNn-5" parent="1" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="140" width="230" x="714.9999999999998" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="O7xg__kZRPUef5S--rNn-6" parent="1" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="140" width="230" x="715.92" y="613" as="geometry" />
+        </mxCell>
+        <mxCell id="O7xg__kZRPUef5S--rNn-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Истина&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="935.92" y="633" as="geometry" />
+        </mxCell>
+        <mxCell id="O7xg__kZRPUef5S--rNn-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Ложь&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="665.92" y="633" as="geometry" />
+        </mxCell>
+        <mxCell id="O7xg__kZRPUef5S--rNn-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="50" width="90" x="831" y="340" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
