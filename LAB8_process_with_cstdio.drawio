@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Страница-1" id="lbt-kyYEEoz8QLp3d7tu">
-    <mxGraphModel dx="1764" dy="1085" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1080" math="0" shadow="0">
+    <mxGraphModel dx="1085" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1080" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -79,7 +79,7 @@
         <mxCell id="H3_0QX1B6Zlk8T0zKRR0-26" edge="1" parent="1" source="H3_0QX1B6Zlk8T0zKRR0-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="H3_0QX1B6Zlk8T0zKRR0-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="H3_0QX1B6Zlk8T0zKRR0-27" parent="1" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="" vertex="1">
+        <mxCell id="H3_0QX1B6Zlk8T0zKRR0-27" parent="1" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;if (!fin || !fout)&lt;/font&gt;" vertex="1">
           <mxGeometry height="140" width="230" x="785.92" y="509" as="geometry" />
         </mxCell>
         <mxCell id="H3_0QX1B6Zlk8T0zKRR0-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Истина&lt;/font&gt;" vertex="1">
