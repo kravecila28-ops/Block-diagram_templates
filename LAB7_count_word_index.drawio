@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Страница-1" id="XaOPwSwZ9qZyz68g53q2">
-    <mxGraphModel dx="4031" dy="2480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1080" math="0" shadow="0">
+    <mxGraphModel dx="3528" dy="2170" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1080" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -82,7 +82,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZKacWvS-V3SnCfJTc8WE-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="&lt;font face=&quot;Consolas, Courier New, monospace&quot; style=&quot;color: light-dark(rgb(172, 173, 174), rgb(255, 255, 255)); font-size: 18px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;in_word = false;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="ZKacWvS-V3SnCfJTc8WE-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="&lt;font face=&quot;Consolas, Courier New, monospace&quot; style=&quot;font-size: 18px; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;in_word = false;&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="97" width="190" x="540" y="941.5" as="geometry" />
         </mxCell>
         <mxCell id="ZKacWvS-V3SnCfJTc8WE-27" edge="1" parent="1" source="ZKacWvS-V3SnCfJTc8WE-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="ZKacWvS-V3SnCfJTc8WE-26">
